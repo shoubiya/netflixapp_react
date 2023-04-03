@@ -1,0 +1,35 @@
+.slide1{
+    margin-left: 20px;
+    color:white;
+    margin-top: 20px;
+    width: 100%;
+    overflow-x:scroll ;
+  
+    
+}
+.slide-items{
+    display: flex;
+   
+}
+.head19{
+    color: white;
+    margin-top: 20px;
+    margin-left: -1140px;
+    font-size: x-large;
+}
+.slidescroll2{
+    display: flex;
+  
+
+    padding: 10px;
+    width: auto;
+    /* overflow-x: scroll; */
+   
+}
+.slide1::-webkit-scrollbar{
+    /* display: none; */
+}
+.slides{
+    max-height: 280px;
+    margin-right: 10px;
+}

@@ -1,0 +1,42 @@
+.slide112{
+    margin-left: 20px;
+    color:white;
+    margin-top: 20px;
+    /* background: gray; */
+    
+}
+.slidescroll12{
+    display: flex;
+    padding: 20px;
+    /* overflow-x: scroll; */
+    overflow-y: hidden;
+}
+.slidescroll12::-webkit-scrollbar{
+    /* display: none; */
+}
+.slideser{
+    max-height: 280px;
+    margin-right: 10px;
+}
+.tittlee22{
+    /* margin-left: -300px; */
+}
+.tittle45{
+    /* margin-left: -360px; */
+    margin-top: 20px;
+}
+.dsdrs7{
+    margin-left: 50px;
+    margin-top: 10px;
+    text-align:left;
+    /* align-items: center; */
+}
+/* .tittlee3{
+    margin-left: -340px;
+}
+.tittlee4{
+    margin-left: 100px;
+} */
+.color{
+    color: darkgoldenrod;
+}
